@@ -1,0 +1,21 @@
+glucose,haemoglobin,cholesterol,prediction
+80,14,180,Healthy
+85,13.5,175,Healthy
+90,14.2,170,Healthy
+95,13.8,185,Healthy
+100,13.2,190,Healthy
+145,13,210,Diabetes Risk
+150,12.8,220,Diabetes Risk
+160,13.1,230,Diabetes Risk
+155,12.9,225,Diabetes Risk
+170,13.4,240,Diabetes Risk
+90,10.5,180,Anemia Risk
+95,11.0,185,Anemia Risk
+100,10.8,190,Anemia Risk
+105,11.2,195,Anemia Risk
+110,10.9,200,Anemia Risk
+100,13.5,250,Cholesterol Risk
+105,13.2,260,Cholesterol Risk
+110,13.8,270,Cholesterol Risk
+115,13.1,280,Cholesterol Risk
+120,13.3,290,Cholesterol Risk
